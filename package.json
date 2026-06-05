@@ -39,7 +39,7 @@
     "aws-sdk": "2.166.0",
     "body-parser": "1.18.2",
     "cors": "2.8.4",
-    "elasticsearch": "14.0.0",
+    "elasticsearch": "16.7.3",
     "express": "4.16.2",
     "http-aws-es": "4.0.0",
     "serverless-http": "1.5.2"
