@@ -37,7 +37,7 @@
   "homepage": "https://github.com/nypl-spacetime/spacetime-api",
   "dependencies": {
     "aws-sdk": "2.166.0",
-    "body-parser": "1.18.2",
+    "body-parser": "1.20.6",
     "cors": "2.8.4",
     "elasticsearch": "14.0.0",
     "express": "4.16.2",
