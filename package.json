@@ -45,6 +45,6 @@
     "serverless-http": "1.5.2"
   },
   "devDependencies": {
-    "serverless-offline": "3.16.0"
+    "serverless-offline": "14.7.4"
   }
 }
